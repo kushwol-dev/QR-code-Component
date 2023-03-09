@@ -15,13 +15,7 @@ body {
     text-align: center;
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin-top: 20%;
-    padding-top: 5%;
-    padding-bottom: 10%;
-    margin-left: 5%;
-    margin-right: 5%; 
-  
+    align-items: center;  
 }
 
 h1{
@@ -48,4 +42,23 @@ img{
     height: 300px;
     width: 300px;
 }
-    
+
+@media screen and (min-width:900px) {
+    .card {
+        margin-left: 42%;
+        margin-right: 40%;
+        margin-top: 10%;
+        padding-top: 1%;
+        padding-bottom: 2%;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .card {
+        margin-top: 20%;
+        padding-top: 5%;
+        padding-bottom: 10%;
+        margin-left: 5%;
+        margin-right: 5%; 
+    }
+}
