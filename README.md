@@ -17,4 +17,4 @@ Personnalisez les styles CSS pour correspondre à votre propre style et préfér
 
 # Auteur
 
-## Ce projet a été créé par [Votre nom].
+## Ce projet a été créé par [KushWolf].
