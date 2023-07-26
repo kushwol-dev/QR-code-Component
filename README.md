@@ -2,7 +2,6 @@
 
 ## Ce projet est un QR-code-Component de Frontend Mentor codé en HTML et CSS. Il a été conçu pour afficher un code QR personnalisé pour une entreprise ou une personne.
 
-
 # Contenu
 
 ## Le QR-code-Component comprend les éléments suivants :
@@ -14,8 +13,6 @@ Comment utiliser ce projet
 Téléchargez ou clonez le dépôt
 Modifiez le fichier HTML pour y inclure vos propres informations
 Personnalisez les styles CSS pour correspondre à votre propre style et préférences
-
-
 
 # QR Code Component - Frontend Mentor
 
@@ -33,7 +30,6 @@ Modify the HTML file to include your own information.
 Customize the CSS styles to match your own preferences and branding.
 Author
 This project was created by [PaulMargueritteOclockStudent].
-
 
 For more exciting projects and contributions, check out our portfolio at [[portfolio_link](https://github.com/PaulMargueritteOclockStudent)].
 
